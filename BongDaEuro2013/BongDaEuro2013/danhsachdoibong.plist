@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>tendoibong</key>
+		<string>Ba Lan</string>
+		<key>logo</key>
+		<string>balan.png</string>
+		<key>huanluyenvien</key>
+		<string>Polska</string>
+		<key>xephang</key>
+		<string>123</string>
+		<key>namthanhlap</key>
+		<string>1980</string>
+		<key>timeplay</key>
+		<string>00h - 21/04</string>
+		<key>count</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>tendoibong</key>
+		<string>Hy Lạp</string>
+		<key>logo</key>
+		<string>hylap.png</string>
+		<key>huanluyenvien</key>
+		<string>Transylvania</string>
+		<key>xephang</key>
+		<string>125</string>
+		<key>namthanhlap</key>
+		<string>1988</string>
+		<key>timeplay</key>
+		<string>00h - 21/04</string>
+		<key>count</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>tendoibong</key>
+		<string>Séc</string>
+		<key>logo</key>
+		<string>sec.png</string>
+		<key>huanluyenvien</key>
+		<string>Aloso</string>
+		<key>xephang</key>
+		<string>90</string>
+		<key>namthanhlap</key>
+		<string>1992</string>
+		<key>timeplay</key>
+		<string>02h - 23/04</string>
+		<key>count</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>tendoibong</key>
+		<string>Nga</string>
+		<key>logo</key>
+		<string>nga.png</string>
+		<key>huanluyenvien</key>
+		<string>MissSound</string>
+		<key>xephang</key>
+		<string>12</string>
+		<key>namthanhlap</key>
+		<string>1999</string>
+		<key>timeplay</key>
+		<string>02h - 23/04</string>
+		<key>count</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>tendoibong</key>
+		<string>Bồ Đào Nha</string>
+		<key>logo</key>
+		<string>bodaonha.png</string>
+		<key>huanluyenvien</key>
+		<string>NowFrame</string>
+		<key>xephang</key>
+		<string>78</string>
+		<key>namthanhlap</key>
+		<string>1877</string>
+		<key>timeplay</key>
+		<string>08h - 19/06</string>
+		<key>count</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>tendoibong</key>
+		<string>Đan Mạch</string>
+		<key>logo</key>
+		<string>danmach.png</string>
+		<key>huanluyenvien</key>
+		<string>Bornholm</string>
+		<key>xephang</key>
+		<string>23</string>
+		<key>namthanhlap</key>
+		<string>1667</string>
+		<key>timeplay</key>
+		<string>08h - 19/06</string>
+		<key>count</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>tendoibong</key>
+		<string>Hà Lan</string>
+		<key>logo</key>
+		<string>halan.png</string>
+		<key>huanluyenvien</key>
+		<string>Domain Name</string>
+		<key>xephang</key>
+		<string>239</string>
+		<key>namthanhlap</key>
+		<string>1886</string>
+		<key>timeplay</key>
+		<string>22h - 22/03</string>
+		<key>count</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>tendoibong</key>
+		<string>Đức</string>
+		<key>logo</key>
+		<string>duc.png</string>
+		<key>huanluyenvien</key>
+		<string>Tosham</string>
+		<key>xephang</key>
+		<string>521</string>
+		<key>namthanhlap</key>
+		<string>1895</string>
+		<key>timeplay</key>
+		<string>22h - 22/03</string>
+		<key>count</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>tendoibong</key>
+		<string>Croatia</string>
+		<key>logo</key>
+		<string>croatia.png</string>
+		<key>huanluyenvien</key>
+		<string>Kie Kow</string>
+		<key>xephang</key>
+		<string>13</string>
+		<key>namthanhlap</key>
+		<string>1899</string>
+		<key>timeplay</key>
+		<string>21h - 23/08</string>
+		<key>count</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>tendoibong</key>
+		<string>Italia</string>
+		<key>logo</key>
+		<string>italia.png</string>
+		<key>huanluyenvien</key>
+		<string>Baltic</string>
+		<key>xephang</key>
+		<string>55</string>
+		<key>namthanhlap</key>
+		<string>1798</string>
+		<key>timeplay</key>
+		<string>21h - 23/08</string>
+		<key>count</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>tendoibong</key>
+		<string>Tây Ban Nha</string>
+		<key>logo</key>
+		<string>taybannha.png</string>
+		<key>huanluyenvien</key>
+		<string>Scandinavia</string>
+		<key>xephang</key>
+		<string>455</string>
+		<key>namthanhlap</key>
+		<string>1677</string>
+		<key>timeplay</key>
+		<string>17h - 25/06</string>
+		<key>count</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>tendoibong</key>
+		<string>Ailen</string>
+		<key>logo</key>
+		<string>ailen.png</string>
+		<key>huanluyenvien</key>
+		<string>Luther</string>
+		<key>xephang</key>
+		<string>15</string>
+		<key>namthanhlap</key>
+		<string>1455</string>
+		<key>timeplay</key>
+		<string>17h - 25/06</string>
+		<key>count</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>tendoibong</key>
+		<string>Anh</string>
+		<key>logo</key>
+		<string>anh.png</string>
+		<key>huanluyenvien</key>
+		<string>Concord</string>
+		<key>xephang</key>
+		<string>2</string>
+		<key>namthanhlap</key>
+		<string>1589</string>
+		<key>timeplay</key>
+		<string>14h - 26/06</string>
+		<key>count</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>tendoibong</key>
+		<string>Thuỵ Điển</string>
+		<key>logo</key>
+		<string>thuydien.png</string>
+		<key>huanluyenvien</key>
+		<string>Solus Christus</string>
+		<key>xephang</key>
+		<string>56</string>
+		<key>namthanhlap</key>
+		<string>1999</string>
+		<key>timeplay</key>
+		<string>14h - 26/06</string>
+		<key>count</key>
+		<string>6</string>
+	</dict>
+	<dict>
+		<key>tendoibong</key>
+		<string>Pháp</string>
+		<key>logo</key>
+		<string>phap.png</string>
+		<key>huanluyenvien</key>
+		<string>Sola Fide</string>
+		<key>xephang</key>
+		<string>90</string>
+		<key>namthanhlap</key>
+		<string>1697</string>
+		<key>timeplay</key>
+		<string>16h - 23/09</string>
+		<key>count</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>tendoibong</key>
+		<string>Ucraina</string>
+		<key>logo</key>
+		<string>ucaina.png</string>
+		<key>huanluyenvien</key>
+		<string>Burg ist </string>
+		<key>xephang</key>
+		<string>8</string>
+		<key>namthanhlap</key>
+		<string>1568</string>
+		<key>timeplay</key>
+		<string>16h - 23/09</string>
+		<key>count</key>
+		<string>3</string>
+	</dict>
+</array>
+</plist>

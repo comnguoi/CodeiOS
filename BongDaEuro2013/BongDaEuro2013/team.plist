@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>listteam</key>
+		<array>
+			<string>Séc</string>
+			<string>Nga</string>
+			<string>Hy Lạp</string>
+			<string>Ba Lan</string>
+		</array>
+		<key>tablename</key>
+		<string>Bảng A</string>
+		<key>name</key>
+		<string>A.png</string>
+	</dict>
+	<dict>
+		<key>listteam</key>
+		<array>
+			<string>Bồ Đào Nha</string>
+			<string>Đức</string>
+			<string>Đan Mạch</string>
+			<string>Hà Lan</string>
+		</array>
+		<key>tablename</key>
+		<string>Bảng B</string>
+		<key>name</key>
+		<string>B.png</string>
+	</dict>
+	<dict>
+		<key>listteam</key>
+		<array>
+			<string>Croatia</string>
+			<string>Tây Ban Nha</string>
+			<string>Italia</string>
+			<string>Ailen</string>
+		</array>
+		<key>tablename</key>
+		<string>Bảng C</string>
+		<key>name</key>
+		<string>C.png</string>
+	</dict>
+	<dict>
+		<key>listteam</key>
+		<array>
+			<string>Anh</string>
+			<string>Pháp</string>
+			<string>Thuỵ Điển</string>
+			<string>Ucraina</string>
+		</array>
+		<key>tablename</key>
+		<string>Bảng D</string>
+		<key>name</key>
+		<string>D.png</string>
+	</dict>
+</array>
+</plist>
